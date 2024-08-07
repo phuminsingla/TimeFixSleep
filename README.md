@@ -1,5 +1,5 @@
 # TimeFixSleep
-Fixed the clock stopping after sleep
+Fixed the clock stopping after sleep for Hackintosh.
 
 ### Step 1
 
